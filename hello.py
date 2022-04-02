@@ -9,7 +9,7 @@ name = name.capitalize() # Capitalizes the first letter of the first word
 
 name = name.title() # Capitalizes the first letter of every word
 
-# # Says Hello to the user
+# Says Hello to the user
 print("Hello")
 print(name)
 
