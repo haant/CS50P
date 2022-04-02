@@ -1,0 +1,31 @@
+Lecture 0 Overview – Functions and Variables
+•	Terminal Window - Command Line Interface
+•	Function is an action which lets you do something within a program. 
+•	The programmer can use the functions to complete certain tasks. 
+•	An argument is an input into a function which changes its behaviour. 
+•	Functions can have ‘side effects’. 
+•	A bug is a mistake within a program, as well as a problem which needs to be solved. 
+•	A Syntax Error refers to having mistake which are made by the coder on the keyboard, such as formatting. 
+•	A variable is a container for a value. 
+•	Comments are notes to yourself within the code, which do not get executed. 
+•	Comments can also be a to-do code. 
+•	Pseudocode is used to express algorithmic code. Allows to outline your program simply. 
+•	A string (str) is a data type. It is a collection of characters. 
+•	*objects means the print function can pass through any number of objects and strings. 
+•	\n creates a new line. 
+•	Default value of a sep=’ ’ is the spaces within the string of a print function. They will be separated by a single space. 
+•	Passing values of printing are called positional values (named parameters).
+•	Named Parameters are sep=’ ‘ or end=””
+•	\ represents an escape character. 
+•	.strip() removed whitespace from a string. 
+•	.capitalize() is able to capitalize the first letter of the first word in a string. 
+•	.title() is able to capitalize the first letter of every word in a string. 
+•	You can also chain function together, such as  .strip().title()
+•	Int are integers (full numbers, without decimal points)
+•	+ - * / %
+•	int() is also needed to convert strings to numbers which are used in maths. 
+•	A float is a number with a decimal (a real number). 
+•	def is used to create a function. 
+•	scope refers to the location where a variables value is valid. Where it is available to you to use. 
+•	return is used to return a value explicitly itself. 
+•	** raises the number to the power. 
