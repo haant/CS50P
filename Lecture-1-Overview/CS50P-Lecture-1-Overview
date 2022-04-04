@@ -1,1 +1,22 @@
+CS50P – Lectures 0, 1, 2 Notes
 
+Lecture 1 – Conditionals
+•	Scope – the context within a variable which exists.
+•	Python comes with a lot of built-in syntax. 
+•	> greater than
+•	>= greater than or equal to
+•	< less than
+•	<= less than or equal to 
+•	== equality and comparing
+•	!= not equal to 
+•	if ask questions for the execution of True and False. 
+•	x < y is a Boolean expression, True or False, Yes or No. 
+•	Indentation makes sure that a line is executed IF that specific Boolean expression it True or False. 
+•	elif is a conjunction of Else If. This allows us to ask question and take account whether the previous question was true or false. 
+•	else is used at the end of an if conditional statement. You can use this to assume any answers for Boolean expressions. 
+•	This makes fewer building blocks within the code, which will ultimately make it faster and more reliable to run. 
+•	or is used to for asking questions such as x or x. 
+•	and is used as a conjunction of questions which are asked at once. 
+•	You can ask and create Boolean expressions for upper and lower bounds. 
+•	% Creates the remainder of a number when it is divided. 
+•	boolean (bool) values can only be True or False. 
