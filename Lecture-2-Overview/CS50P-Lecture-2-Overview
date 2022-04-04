@@ -1,1 +1,15 @@
+CS50P – Lectures 0, 1, 2 Notes
 
+Lecture 2 – Loops
+•	while is used to express a loop which repeats something as many times as we want. Allows to ask a question again and again in a Boolean expression format (true or false). 
+•	for is also a loop which is used a loop. 
+•	list another type of data type. A way of containing multiple values in the same place (variable). 
+•	By specifying range(3), we are being handed back 3 values of what we assigned it to hand back. 
+•	When we want a user input to match a certain expectation we have, we should use while True:
+•	break is used to break out of a while loop. 
+•	return is used to hand back an actual value to the user. 
+•	[] can be used to print an item in a list from its location. 
+•	len (length) tells us the length of a list, as well as other things. 
+•	dict is used as a dictionary. Two dimensional – associates something with something else. Used as {}. 
+•	Dictionaries allow to use actual words as indexes. 
+•	None represents the absence of a value. 
