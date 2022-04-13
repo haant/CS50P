@@ -1,0 +1,11 @@
+Lecture 3 – Exceptions
+•	Expectations refer to problems within code – something has gone wrong within code. 
+•	SyntaxError is a problem within the code that you have typed. Error within the use of syntax of Python. They are entirely on you to solve. 
+•	RunTime errors are errors occur when the code is running. It is up to you to write some code to detect and fix these RunTime errors. 
+•	try and except can be used to check whether something is exceptional has happened. (Example can be found in number.py)
+•	NameError refers to the code error of variables. 
+•	else can be used in the event when nothing else is relevant. 
+•	(Example which uses try, except and else are in number.py)
+•	return is used to print values from functions. It can break you out of a loop and also return a value for you. 
+•	break is used to break out of loops. 
+•	pass can be used to ignore a command. 
