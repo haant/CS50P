@@ -1,0 +1,14 @@
+Lecture 3 – Libraries:
+•	Libraries are files of code which other people have written, which allow you to use them in your own code. 
+•	A module is a library that ha sone or more functions built into it. Encourages reusability of code. 
+•	Python comes with various libraires which are built in. Examples include random
+•	import can be used to import (call) some modules within python. 
+•	random.choice(seq) seq generally means a sequence or sequence-like. 
+•	random.randint(a, b) get back a random integer between a and b inclusive. 
+•	random.shuffle(x) takes a lists of values and randomises them. 
+•	Python also comes with statistics module. 
+•	sys (system) contains functionality towards the whole system. 
+•	To take a slice of a list is to take a subset of it. 
+•	Package a module which is implemented in a folder. Allows us to gain access to more functionality. 
+•	pip is a program used to install packages onto a system. 
+•	JSON stands for Java Script Object Notation. Used as a language agnostic format to exchange data within systems. The standard way for displaying information for APIs as well as large databases. 
