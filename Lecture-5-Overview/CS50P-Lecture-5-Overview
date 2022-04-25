@@ -1,0 +1,8 @@
+CS50P – Lectures 5, 6 Notes
+
+Lecture 5 – Unit Tests:
+•	__name__ is a variable which is set to s specific value within Python. Starts running the code from where it is placed. 
+•	assert state that if it is true, nothing will happen. If it is false, some sort of error will be displayed. 
+•	pytest third-party program which automates the testing of code so long the coder writes the test. 
+•	pip install pytest  to install pytest
+•	a package is multiple python modules which are organised inside of a folder. 
