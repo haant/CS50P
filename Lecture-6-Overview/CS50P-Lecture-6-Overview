@@ -1,0 +1,15 @@
+CS50P – Lectures 5, 6 Notes
+
+Lecture 6 – File I/O:
+•	Using lists, we can store multiple variables and pieces of information. 
+•	_ can be used as a pythonic convention. 
+•	The function open in python, opens a file when you give it a file name. You can write information into it as well as read its contents. 
+•	‘w’ is used for writing within the file. 
+•	‘a’ is used for writing (appending) the file without removing the contents. 
+•	‘r’ can be used to read an opened file. 
+•	Always close files after appending them. 
+•	with can be used to open and close some file automatically (example seen in code). 
+•	.cvs files can be used in python. This is where any data within files is comma separated, hence the name, Comma-Separated Values. 
+•	.split functionality comes with all strings in python. Can split the strings based on the given value. 
+•	A Lambda function is an anonymous function or a function having no name. 
+•	DictReader can iterate over the CVS file, loading in each line of text as a dictionary of columns. This will give the coder automatic access to the column names. 
