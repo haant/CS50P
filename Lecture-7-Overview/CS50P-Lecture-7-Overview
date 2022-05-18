@@ -1,0 +1,32 @@
+CS50P – Lectures 7 Notes
+
+Lecture 7 – Regular Expressions:
+•	A Regular Expression (aka regexes) is a pattern to match some type of data for example user input. It can also be used for validation, for example it can validate if integers are entered into a integer field. 
+•	.strip() is able to eliminate any blank/white space created by the user. 
+•	re is a library for regular expressions. There are a lot of capabilities to check for and validate patterns. 
+•	Documentation for re: https://docs.python.org/3/library/re.html
+•	re.search(pattern, string, flags=0) 
+•	. any character except a newline  
+•	* 0 or more repetitions 
+•	+ 1 or more repetitions 
+•	? 0 or 1 repetition 
+•	{m} m repetitions 
+•	{m,n} m-n repetitions 
+•	^ matches the start of the string 
+•	$ matches the end of the string just before the newline at the end of the string 
+•	[] set of characters 
+•	[^] complementing the set 
+•	a-z can be used instead of typing through 26 letters of the alphabet in Python (same can be done for upper case). 
+•	0-9 can be used instead of typing the range of numbers. 
+•	\d decimal digit 
+•	\D not a decimal digit 
+•	\s whitespace character 
+•	\S not a whitespace character 
+•	\w word character, as well as number and the underscore 
+•	\W not a word character 
+•	A|B either A or B
+•	(…) a group 
+•	(?:…) non-capturing version 
+•	flags in re are configuration options which allow it to change some characters. 
+•	:= can be used to assign something from right to left AND you want to ask an if question. 
+•	re.sub(pattern, repl, string, count=0, flags=0) 
